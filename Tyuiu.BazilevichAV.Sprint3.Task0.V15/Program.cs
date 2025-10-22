@@ -17,7 +17,7 @@ Console.WriteLine("***********************************************************")
 Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                        *");
 Console.WriteLine("***********************************************************");
 
-double value = 2;
+double value = 0.7;
 int startValue = 1;
 int stopValue = 10;
 
