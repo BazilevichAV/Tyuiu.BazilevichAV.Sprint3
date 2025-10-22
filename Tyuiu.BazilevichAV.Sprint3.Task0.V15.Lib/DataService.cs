@@ -9,7 +9,7 @@ namespace Tyuiu.BazilevichAV.Sprint3.Task0.V15.Lib
             int i;
             for (i = startValue; i <= stopValue; i++)
             {
-                sumSeries = sumSeries + (Math.Pow(value,i) + 2/(i+1)) * Math.Sin(value);
+                sumSeries = sumSeries + (Math.Pow(value,i) + 2.0/(i+1)) * Math.Sin(value);
             }
             return Math.Round(sumSeries, 3);
         }
