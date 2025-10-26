@@ -45,11 +45,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BazilevichAV.Sprint3.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{AD0F4793-7BC1-4FB2-BD88-DDE58CB1C5FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BazilevichAV.Sprint3.Task5.21", "Tyuiu.BazilevichAV.Sprint3.Task5.21\Tyuiu.BazilevichAV.Sprint3.Task5.21.csproj", "{303EFED2-B03B-4546-B718-D2325F84D90D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BazilevichAV.Sprint3.Task5.V21", "Tyuiu.BazilevichAV.Sprint3.Task5.21\Tyuiu.BazilevichAV.Sprint3.Task5.V21.csproj", "{303EFED2-B03B-4546-B718-D2325F84D90D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BazilevichAV.Sprint3.Task5.21.Lib", "Tyuiu.BazilevichAV.Sprint3.Task5.21.Lib\Tyuiu.BazilevichAV.Sprint3.Task5.21.Lib.csproj", "{492A417C-455C-4D75-8488-EA8AA5528D71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BazilevichAV.Sprint3.Task5.V21.Lib", "Tyuiu.BazilevichAV.Sprint3.Task5.21.Lib\Tyuiu.BazilevichAV.Sprint3.Task5.V21.Lib.csproj", "{492A417C-455C-4D75-8488-EA8AA5528D71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BazilevichAV.Sprint3.Task5.21.Test", "Tyuiu.BazilevichAV.Sprint3.Task5.21.Test\Tyuiu.BazilevichAV.Sprint3.Task5.21.Test.csproj", "{804FF4FF-7109-4B7B-908D-B95FE6B3163F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BazilevichAV.Sprint3.Task5.V21.Test", "Tyuiu.BazilevichAV.Sprint3.Task5.21.Test\Tyuiu.BazilevichAV.Sprint3.Task5.V21.Test.csproj", "{804FF4FF-7109-4B7B-908D-B95FE6B3163F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
