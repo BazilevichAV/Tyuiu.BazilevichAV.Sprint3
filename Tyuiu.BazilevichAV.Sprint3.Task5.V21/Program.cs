@@ -7,7 +7,7 @@ Console.Title = "Спринт #3 | Выполнила: Базилевич А.В.
 Console.WriteLine("***********************************************************");
 Console.WriteLine("* Спринт #3                                               *");
 Console.WriteLine("* Тема: Использование операторов continue и break в циклах*");
-Console.WriteLine("* Задание #4                                              *");
+Console.WriteLine("* Задание #5                                              *");
 Console.WriteLine("* Вариант #1                                              *");
 Console.WriteLine("* Выполнила: Базилевич Алёна Владимировна | ИБКСб-25-1    *");
 Console.WriteLine("***********************************************************");
